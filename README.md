@@ -1843,7 +1843,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](Output/lat_v_temp.png)
 
 
 ### Latitude vs. Humidity Plot
@@ -1864,7 +1864,7 @@ plt.show()
 ```
 
 
-![png](output_14_0.png)
+![png](Output/lat_v_humidity.png)
 
 
 ### Latitude vs. Cloudiness Plot
@@ -1885,7 +1885,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](Output/lat_v_cloud.png)
 
 
 ### Latitude vs. Wind Speed Plot
@@ -1906,5 +1906,5 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![png](Output/lat_v_wind.png)
 
